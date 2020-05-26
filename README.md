@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Приложение на React + semantic ui
+# Приложение на React + axios + semantic ui
 ## Реализовано подключение по API к youtube. Приложение ищет по запросу видео - выводит первые 5. Отображает сразу в окне просмотра первое видео из 5 найденных. Количество видео установлено условно (именно 5).
 
 ## ![scrin](https://i.imgur.com/BfAthjv.png)
